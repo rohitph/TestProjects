@@ -1,0 +1,9 @@
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\bin\Debug\netcoreapp3.1\LibSearchResults.deps.json
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\bin\Debug\netcoreapp3.1\LibSearchResults.dll
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\bin\Debug\netcoreapp3.1\LibSearchResults.pdb
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.AssemblyInfoInputs.cache
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.AssemblyInfo.cs
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.dll
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.pdb
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.csproj.CoreCompileInputs.cache
+C:\Rohit\TestProject\SlnGoogleSearch\LibSearchResults\obj\Debug\netcoreapp3.1\LibSearchResults.csprojAssemblyReference.cache
